@@ -14,5 +14,14 @@ Tools/Technologies:
 
   Built with Django, A web framework for Python with PostGres relational database.
   
+UI Pages:
+- HOME/SEARCH PAGE: Displays all listings with search functionality
+- VIEW PAGE: Displays independent listing info
+- LOGIN/REGISTER PAGE: Enables user registration and login
+- ADMIN DASHBOARD: Allow specific crud operations to administrator
+- CONTACT PAGE: Used to contact realtors regarding specificied listing/listings
+- ABOUT PAGE: Goals and Mission
+
+  
 
     
