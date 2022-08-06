@@ -10,7 +10,8 @@ App Capabilities:
 - Authentication
 - Making Inquiries
 
-Tools/Technologies
+Tools/Technologies:
+
   Built with Django, A web framework for Python with PostGres relational database
   
 
