@@ -12,7 +12,7 @@ App Capabilities:
 
 Tools/Technologies:
 
-  Built with Django, A web framework for Python with PostGres relational database
+  Built with Django, A web framework for Python with PostGres relational database.
   
 
     
